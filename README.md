@@ -1,0 +1,4 @@
+mjpairi
+=======
+
+Pairi calculation
