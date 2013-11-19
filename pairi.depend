@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1384843637 source:e:\velicue\pairi\pairi.cpp
+	<iostream>
+	<string>
+	<cstring>
+	<cstdlib>
+	<cstdio>
+
